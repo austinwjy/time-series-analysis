@@ -1,4 +1,4 @@
-# time-series-analysis
+# Time Series Analysis by Statistical Methods
 
 <h2>Description</h2>
 The project focuses on the statistical methods of time series analysis with an example of financial time series data, by conducting an exploratory data analysis to suggest possible ARIMA models, which are then compared by model performance. Based on the best-fitted model, future values are predicted. Spectral analysis is also performed to study the periodicity of time series.
