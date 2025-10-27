@@ -8,10 +8,10 @@ The project focuses on the statistical methods of time series analysis with an e
 - <b>R(Studio)</b>
 - <b>ARIMA Model</b>
 
-<h2>Raw Code</h2>
+<h2>Project Walk-through</h2>
 
-[R Markdown](https://github.com/austinwjy/time-series-analysis/blob/main/project.Rmd)
+- [R Markdown](https://github.com/austinwjy/time-series-analysis/blob/main/project.Rmd)
 
 <h2>Full Report</h2>
 
-[Report](https://github.com/austinwjy/time-series-analysis/blob/main/report.pdf)
+ - [Time Series Analysis](https://github.com/austinwjy/time-series-analysis/blob/main/report.pdf)
